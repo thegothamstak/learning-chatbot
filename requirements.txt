@@ -1,0 +1,8 @@
+numpy
+google-cloud-aiplatform
+langchain-google-vertexai
+langchain
+langchain-google-genai 
+langchain-google-community
+unstructured[pdf]
+streamlit
